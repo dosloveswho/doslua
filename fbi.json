@@ -2,7 +2,7 @@
   "admins": [
     {
       "name": "Jeck_Cole",
-      "password": "Russel@061507"
+      "password": "$2b$12$wGu/rp2Ek9Iq/.TJHGdrDOIPYAYsNCuMjTWBYE/Y18ICmMHkH.k.."
       "admin_name": "LION"
     },
     {
@@ -12,4 +12,5 @@
     }
   ]
 }
+
 
