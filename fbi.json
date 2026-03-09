@@ -3,10 +3,13 @@
     {
       "name": "Jeck_Cole",
       "password": "Russel@061507"
+      "admin_name": "LION"
     },
     {
       "name": "Admin_Test",
       "password": "mypassword"
+      "admin_name": "Test"
     }
   ]
 }
+
